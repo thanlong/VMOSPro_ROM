@@ -11,7 +11,7 @@
 <p><b>Boot animation</b>
 <br/>Display the boot animation screen when starting the virtual machine boot </p>
 <p><b>Pre-installed Aurora Store</b>
-<br/>Aurora Store's is an open source app that provides an alternative to the Google Play Store, allowing you to download apps available on Google Play Store without having to sign in to an account.</p>
+<br/>Aurora Store is an open source app that provides an alternative to the Google Play Store, allowing you to download apps available on Google Play Store without having to sign in to an account.</p>
 <p><b>Pre-installed Files</b>
 <br/>To browse and edit files in virtual machine</p>
 <p><b>Chinese keyboard has been removed</b><br>Replace with AOSP latin keyboard</p><br/>
@@ -39,7 +39,7 @@ There are two build types: Gapps (with Google Services) and vanilla (no Google S
 <p><b>Boot animation</b>
 <br/>Display the boot animation screen when starting the virtual machine boot </p>
 <p><b>Pre-installed Aurora Store</b>
-<br/>Aurora Store's is an open source app that provides an alternative to the Google Play Store, allowing you to download apps available on Google Play Store without having to sign in to an account.</p>
+<br/>Aurora Store is an open source app that provides an alternative to the Google Play Store, allowing you to download apps available on Google Play Store without having to sign in to an account.</p>
 <p><b>Pre-installed Files</b>
 <br/>To browse and edit files in virtual machine</p>
 <p><b>Chinese keyboard has been removed</b>
