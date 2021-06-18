@@ -32,6 +32,8 @@ There are two build types: Gapps (with Google Services) and vanilla (no Google S
 
 [Android 5.1.1 32-bit GEEK (vanilla)](http://link1s.com/4o4k9)
 
+From another one: [AndnixSH](https://www.andnixsh.com/2020/09/vmos-pro-custom-roms-android-511-and.html?m=1)
+
 # LITE ROM
 
 ## What's new?
