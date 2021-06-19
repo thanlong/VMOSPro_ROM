@@ -4,7 +4,7 @@
 
 ## What's new?
 
-<p><b>Terminal Tool v1.9</b>
+<p><b>Terminal Tool v1.14</b>
 <br/>Type <code>tool</code> command in Terminal to install or uninstall Root/Xposed and other features</p>
 <p><b>Built-in BusyBox</b>
 <br/>No need to install BusyBox via third-party</p>
