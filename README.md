@@ -18,7 +18,7 @@
 
 ## Download
 
-There are two build types: Gapps (with Google Services) and vanilla (no Google Services)
+There are two build types: Gapps (with Google Services presetted) and vanilla (no Google Services)
 
 [Android 7.1.2 64-bit GEEK (gapps)](http://link1s.com/geQV5)
 
