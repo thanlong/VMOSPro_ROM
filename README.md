@@ -1,6 +1,27 @@
 <div><img src="https://vmos.wap.sh/images/VMOSProGEEK.png" style="width:100%"/></div>
 
-# GEEK ROM (Root and Xposed inside)
+# Geek ROM new version
+
+## What is new
+
+<p><b>Based on VMOS v1.3.1 ROM</b>
+<br/><code>/system</code> Read-only, more secure.</p>
+<p><b>Terminal Tool</b>
+<br/>Update tool to support <code>/system</code> Read-only. Type <code>tool</code> command in Terminal to install or uninstall Root/Xposed and other features. Root, Xposed and Google Services now is disabled by default to make sure the ROM installation is faster</p>
+
+
+## Download
+
+[Android 7.1.2 64-bit](http://link1s.com/vmosromv7_64)
+
+[Android 7.1.2 32-bit](http://link1s.com/vmosromv7)
+
+[Android 5.1.1 32-bit](http://link1s.com/vmosromv5) 
+
+
+
+
+# Geek ROM
 
 ## What's new?
 
