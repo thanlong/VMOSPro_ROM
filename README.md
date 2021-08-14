@@ -5,10 +5,9 @@
 ## What is new
 
 <p><b>Based on VMOS v1.3.1 ROM</b>
-<br/><code>/system</code> Read-only, more secure.</p>
+<br/>Varios bugs were fixed. Smoother and faster.</p>
 <p><b>Terminal Tool</b>
-<br/>Update tool to support <code>/system</code> Read-only. Type <code>tool</code> command in Terminal to install or uninstall Root/Xposed and other features. Root, Xposed and Google Services are now disabled by default to ensure faster ROM installation</p>
-
+<br/>Root, Xposed and Google Services is not installed by default to ensure the faster ROM installation. You can run <code>tool</tool> command to install.</p>
 
 ## Download
 
