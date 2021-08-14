@@ -7,7 +7,7 @@
 <p><b>Based on VMOS v1.3.1 ROM</b>
 <br/>Various bugs were fixed. Smoother and faster.</p>
 <p><b>Terminal Tool</b>
-<br/>Root, Xposed and Google Services is not installed by default to ensure the faster ROM installation. You can run <code>tool</code> command to install.</p>
+<br/>Root, Xposed and Google Services is not installed by default to ensure the faster ROM installation. You can run <code>tool</code> command to install it manually.</p>
 
 ## Download
 
