@@ -3,7 +3,7 @@
 # Geek ROM new version
 
 ## What is new
-
+<p>Fake Google phone build fingerprint</p>
 <p><b>Based on VMOS v1.3.1 ROM</b>
 <br/>Various bugs were fixed. Smoother and faster.</p>
 <p><b>Terminal Tool</b>
@@ -11,11 +11,11 @@
 
 ## Download
 
-[Android 7.1.2 arm64-v8a 64-bit](http://link1s.com/vmosromv7_64)
+[Android 7.1.2 marlin arm64-v8a 64-bit](http://link1s.com/vmosromv7_64)
 
-[Android 7.1.2 armeabi-v7a 32-bit](http://link1s.com/vmosromv7)
+[Android 7.1.2 marlin armeabi-v7a 32-bit](http://link1s.com/vmosromv7)
 
-[Android 5.1.1 armeabi-v7a 32-bit](http://link1s.com/vmosromv5) 
+[Android 5.1.1 manta armeabi-v7a 32-bit](http://link1s.com/vmosromv5) 
 
 
 
