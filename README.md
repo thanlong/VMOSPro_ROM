@@ -20,6 +20,68 @@
 
 [Android 5.1.1 manta armeabi-v7a 32-bit](http://link1s.com/vmosromv5) 
 
+# GEEK ROM
+
+## What's new?
+
+<p><b>Terminal Tool</b>
+<br/>Type <code>tool</code> command in Terminal to install or uninstall Root/Xposed and other features</p>
+<p><b>Built-in BusyBox</b>
+<br/>No need to install BusyBox via third-party</p>
+<p><b>Boot animation</b>
+<br/>Display the boot animation screen when starting the virtual machine boot </p>
+<p><b>Pre-installed Aurora Store</b>
+<br/>Aurora Store is an open source app that provides an alternative to the Google Play Store, allowing you to download apps available on Google Play Store without having to sign in to an account.</p>
+<p><b>Pre-installed Files</b>
+<br/>To browse and edit files in virtual machine</p>
+<p><b>Chinese keyboard has been removed</b><br>Replace with AOSP latin keyboard</p><br/>
+
+## Download
+
+There are two build types: Gapps (with Google Services presetted) and vanilla (no Google Services)
+
+[Android 7.1.2 64-bit GEEK (gapps)](http://link1s.com/geQV5)
+
+[Android 7.1.2 64-bit GEEK (vanilla)](http://link1s.com/VuBG)
+
+[Android 7.1.2 32-bit GEEK (gapps)](http://link1s.com/13YlGTOA)
+
+[Android 7.1.2 32-bit GEEK (vanilla)](http://link1s.com/LFzYlm)
+
+[Android 5.1.1 32-bit GEEK (gapps)](http://link1s.com/h4w80)
+
+[Android 5.1.1 32-bit GEEK (vanilla)](http://link1s.com/4o4k9)
+
+From another one: [AndnixSH](https://www.andnixsh.com/2020/09/vmos-pro-custom-roms-android-511-and.html?m=1)
+
+# LITE ROM
+
+## What's new?
+
+<p><b>Boot animation</b>
+<br/>Display the boot animation screen when starting the virtual machine boot </p>
+<p><b>Pre-installed Aurora Store</b>
+<br/>Aurora Store is an open source app that provides an alternative to the Google Play Store, allowing you to download apps available on Google Play Store without having to sign in to an account.</p>
+<p><b>Pre-installed Files</b>
+<br/>To browse and edit files in virtual machine</p>
+<p><b>Chinese keyboard has been removed</b>
+<br>Replace with AOSP latin keyboard</p><br/>
+
+## Download
+
+There are two build types: Gapps (with Google Services) and vanilla (no Google Services)
+
+[Android 7.1.2 64-bit LITE (gapps)](http://link1s.com/4TqXgRf)
+
+[Android 7.1.2 64-bit LITE (vanilla)](http://link1s.com/w2Vo)
+
+[Android 7.1.2 32-bit LITE (gapps)](http://link1s.com/BvDz7Q)
+
+[Android 7.1.2 32-bit LITE (vanilla)](http://link1s.com/jZZhH)
+
+[Android 5.1.1 32-bit LITE (gapps)](http://link1s.com/K69GK5v)
+
+[Android 5.1.1 32-bit LITE (vanilla)](http://link1s.com/hgLVsPZ)
 
 
 
